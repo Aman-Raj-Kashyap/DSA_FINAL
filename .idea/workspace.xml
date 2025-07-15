@@ -43,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IsPalindrome">
     <configuration name="CalculateSumN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First_AnalysisOfAlgorithm.CalculateSumN" />
       <module name="DSA-FINAL" />
@@ -57,8 +57,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindingNoOfDigitInNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second_Mathematics.FindingNoOfDigitInNo" />
+      <module name="DSA-FINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Second_Mathematics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Second_Mathematics.IsPalindrome" />
+      <module name="DSA-FINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Second_Mathematics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.FindingNoOfDigitInNo" />
         <item itemvalue="Application.CalculateSumN" />
       </list>
     </recent_temporary>
